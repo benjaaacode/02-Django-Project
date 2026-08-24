@@ -1,1 +1,2 @@
-# 02-Django-Project
+## Colaboradores
+- Benjamin Vivanco (benjaminvivancosnchez@gmail.com)
